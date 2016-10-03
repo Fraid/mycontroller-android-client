@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single" android:id="@+id/main_menu">
+        <item
+            android:id="@+id/nav_dashboard"
+            android:icon="@drawable/tachometer"
+            android:title="Dashboards" />
+        <item
+            android:id="@+id/nav_resources"
+            android:icon="@drawable/cubes"
+            android:title="Resources" />
+        <item
+            android:id="@+id/nav_action_board"
+            android:icon="@drawable/maigc"
+            android:title="Action board" />
+        <item
+            android:id="@+id/nav_status"
+            android:icon="@drawable/file_text"
+            android:title="Status" />
+        <item
+            android:id="@+id/nav_utilities"
+            android:icon="@drawable/cube"
+            android:title="Utilities" />
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/cog"
+            android:title="Settings" />
+    </group>
+
+    <group android:checkableBehavior="single" android:id="@+id/back_menu" android:visible="false">
+        <item
+            android:id="@+id/nav_back"
+            android:title="Back" />
+    </group>
+
+    <group android:checkableBehavior="single" android:id="@+id/resources_menu" android:visible="false">
+        <item
+            android:id="@+id/nav_gateways"
+            android:title="Gateways" />
+        <item
+            android:id="@+id/nav_nodes"
+            android:title="Nodes" />
+        <item
+            android:id="@+id/nav_sensors"
+            android:title="Sensors" />
+        <item
+            android:id="@+id/nav_rules"
+            android:title="Rules" />
+        <item
+            android:id="@+id/nav_timers"
+            android:title="Timers" />
+        <item
+            android:id="@+id/nav_operations"
+            android:title="Operations" />
+        <item
+            android:id="@+id/nav_forward"
+            android:title="Forward payload" />
+        <item
+            android:id="@+id/nav_groups"
+            android:title="Groups" />
+        <item
+            android:id="@+id/nav_rooms"
+            android:title="Rooms" />
+    </group>
+
+</menu>

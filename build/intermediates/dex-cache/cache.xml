@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.mikepenz/fontawesome-typeface/4.6.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="85df25d7afb26b40d1eaaa7382238bb3cb95591c">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/com.mikepenz-fontawesome-typeface-4.6.0.3_62dd108de9d2da43eb94316d5523cfa640088256.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_f06d5f949b0d4becf1c312b699186ea17614a7c6.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/okio-1.8.0_0355a65eb29b57e4a9da3e5171f88ce7170b42b5.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.3.1/99ce730034c6f5aaed710d1e0e9df95e8714ed5f/logging-interceptor-3.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="99ce730034c6f5aaed710d1e0e9df95e8714ed5f">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/logging-interceptor-3.3.1_b30140f84cc09a856875e71901d795d8084f72ec.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74ca46e7da11e3d065eb64cdbe6568a7ed74c211">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.0.1_a327bc6992ea7761d8c71159c9ac67be9ba00f8e.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.android.service/1.1.0/1945d9504415955d865ac805f60bf85366aeaffb/org.eclipse.paho.android.service-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1945d9504415955d865ac805f60bf85366aeaffb">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.android.service-1.1.0_e0d760a671047a9d025b7322a6334d13cfa8c8ce.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.0.1/345b89f45d02d8b09400b472fab7b7e38f4ede1f/butterknife-annotations-8.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345b89f45d02d8b09400b472fab7b7e38f4ede1f">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.0.1_0af55d73dcd4094bff70cd68f96cdd6822812516.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.4.0_43ca1e2351fe99d0ae1e040146c4efa36abdca5b.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/libs/org.restlet.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ad1c9de25ef43c6373e821ea9fe2daa271aa1923">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/org.restlet_5bcb88fe7da0df31f4f12d5044e1896f40c98dfb.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_98ec294a409f71fbd9a62db4a1f119df54d8a377.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_ab9368d5663ec2fc8456560bd31b74e657b2ff9b.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/libs/org.restlet.ext.jackson.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8f483e456e04de7a5a6eefe667a92995d0898450">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/org.restlet.ext.jackson_9b467b7eb606eae6b31b27550963aa6057c2d5f5.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_0dca75c725274df6a28d38333db62e12e20d1657.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/.gradle/caches/modules-2/files-2.1/org.eclipse.paho/org.eclipse.paho.client.mqttv3/1.1.0/89d827ffa47c241f2627421ef1d6c7a8c207a341/org.eclipse.paho.client.mqttv3-1.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="89d827ffa47c241f2627421ef1d6c7a8c207a341">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/org.eclipse.paho.client.mqttv3-1.1.0_2732012ececcdaff97f9cc67d7d6c7ab3c76a120.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_58a7ef00716d2de507ed1cac1b224870bafb90a4.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/libs/org.restlet.ext.nio.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="caae6494e1d2eddf0ef503e823463094dcee8c36">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/org.restlet.ext.nio_b237954629f9a78bf75c7085daaa52953b147c32.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.mikepenz/iconics-core/2.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9f910ce4152cf5b205ee2630dc2e12d2803e1e63">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/com.mikepenz-iconics-core-2.8.1_220cac121bad39b6f186d1e8cb129ca2f0b92e5f.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_6fb36e19c1a9dad86f06e781fca98f76b8ea90c5.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.github.satyan/sugar/1.4/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac045b53684345f4ec8468477e8fc5034d0d2bfd">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/com.github.satyan-sugar-1.4_cc019d95d634987c43b7d0bff1ec0310f2664d8d.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/okhttp-3.3.1_1c6f8fba5cb6d71004720c259bde87a91cf53e42.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_3d11a831f7915b1c42ea4ffdb140f5575700d7c9.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_2d58dfcef9e2ff527a60d2ecb8fafad420929a74.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/18.0/cce0823396aa693798f8882e64213b1772032b09/guava-18.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/guava-18.0_9d32ebf4b099896f1f239650d6fdadf527c4dd7f.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.4.0_89d1ecd0806ee815f15fb0ab5baeedb7cff08f4e.jar" />
+    </item>
+    <item
+        jar="/Users/tibi/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/tibi/Documents/Munka/MYCONTROLLER/mycontroller-android-client/app/build/intermediates/pre-dexed/debug/gson-2.7_0b8fc5b497028fba4f3b3277dc5db73391d762b6.jar" />
+    </item>
+
+</items>
